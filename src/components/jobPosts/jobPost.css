@@ -1,0 +1,23 @@
+.jobPostParent{
+    width: 80%;
+    height: 20%;
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 20px;
+    padding: 20px 30px;
+}
+
+.above{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.above span{
+    background-color: yellowgreen;
+    border-radius: 50px;
+    padding: 10px 20px;
+}

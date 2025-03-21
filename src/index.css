@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+
+body{
+  background-color: #333;
+  color: white;
+}
+
+.appParent{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  /* width: 100vw; */
+  height: 100vh;
+
+}
