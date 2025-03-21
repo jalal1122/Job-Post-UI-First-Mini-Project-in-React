@@ -1,6 +1,6 @@
 import React from "react";
-import JobPost from "../components/jobPosts/jobPost";
 import jobs from "../../testData";
+import JobPost from "../components/jobPosts/JobPost";
 import JobPostComponent from "../components/jobPostComponent/JobPostComponent";
 import NavBar from "../components/NavBar";
 
